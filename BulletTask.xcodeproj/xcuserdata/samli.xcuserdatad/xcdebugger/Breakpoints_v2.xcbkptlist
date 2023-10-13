@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8053EADF-9084-4460-AD69-B6F25D5F2AB8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7B3727D-EB2D-42B1-AE01-44086F59D2DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BulletTask/View/PureTaskView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A79C9D63-2C2C-45AC-A5DC-FC3815943F96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BulletTask/Service/DataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35CEB118-0D2D-44E3-9389-21E5357E3623"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BulletTask/Model/Task.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(id:content:finished:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35CEB118-0D2D-44E3-9389-21E5357E3623 - 910cff9571251b2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of BulletTask.Task.init(id: Foundation.UUID, content: Swift.String, finished: Swift.Bool) -&gt; BulletTask.Task"
+                  moduleName = "BulletTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samli/Apps/My_Project/BulletTask/BulletTask/Model/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "35CEB118-0D2D-44E3-9389-21E5357E3623 - c068d6abd84e81ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BulletTask.Task.__allocating_init(id: Foundation.UUID, content: Swift.String, finished: Swift.Bool) -&gt; BulletTask.Task"
+                  moduleName = "BulletTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samli/Apps/My_Project/BulletTask/BulletTask/Model/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "35CEB118-0D2D-44E3-9389-21E5357E3623 - c088673cddd3e677"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BulletTask.Task.init(id: Foundation.UUID, content: Swift.String, finished: Swift.Bool) -&gt; BulletTask.Task"
+                  moduleName = "BulletTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samli/Apps/My_Project/BulletTask/BulletTask/Model/Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
